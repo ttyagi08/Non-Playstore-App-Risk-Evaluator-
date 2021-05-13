@@ -6,8 +6,8 @@ User can decide to use the app after the risk score.
 # USE CASE 
 Suppose a user want to check an app for privacy and risk factors before installing, user can use this tool. Only works for Non-Playstore Apps(As Google Playstore apps are generally trusted).
 # USAGE
-* >
-python gui.py
+>python gui.py
+
 
 
   
