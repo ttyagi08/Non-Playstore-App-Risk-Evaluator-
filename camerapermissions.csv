@@ -1,0 +1,16 @@
+NAME,SCORE
+android.permission.BACKUP,8
+android.permission.BLUETOOTH_ADMIN,10
+android.permission.DUMP,5
+android.permission.INTERACT_ACROSS_USERS,3
+android.permission.INTERACT_ACROSS_USERS_FULL,4
+android.permission.INTERNET,7
+android.permission.WAKE_LOCK,2
+android.permission.CAMERA_SEND_SYSTEM_EVENTS,1
+android.permission.CAMERA_DISABLE_TRANSMIT_LED,1
+android.permission.KILL_BACKGROUND_PROCESSES,9
+android.permission.CLEAR_APP_USER_DATA,10
+android.permission.ACCESS_MOCK_LOCATION,4
+android.permission.ACCESS_NOTIFICATION_POLICY,5
+android.permission.BATTERY_STATS,6
+android.permission.NFC,2

@@ -1,0 +1,22 @@
+
+
+Like we calculate cve score by cvss metrics based on CIA,privacy,attack vector, easiness of the attack. Similarly I have proposed the scores of permissions based on these metrics.
+
+
+NAME	SCORE
+android.permission.BACKUP	10                    - confidentiality 
+
+android.permission.DUMP	5     
+android.permission.INTERACT_ACROSS_USERS	3               
+android.permission.INTERACT_ACROSS_USERS_FULL	4
+android.permission.INTERNET	7                             -CIA
+android.permission.WAKE_LOCK	2           
+android.permission.CAMERA_SEND_SYSTEM_EVENTS  	10        - privacy
+android.permission.CAMERA_DISABLE_TRANSMIT_LED	9   
+android.permission.BLUETOOTH_ADMIN	10  -                   confiden       - 
+android.permission.KILL_BACKGROUND_PROCESSES	9          - availability of other apps 
+android.permission.CLEAR_APP_USER_DATA	10                 - 
+android.permission.ACCESS_MOCK_LOCATION	6
+android.permission.ACCESS_NOTIFICATION_POLICY	5
+android.permission.BATTERY_STATS	6
+android.permission.NFC	2

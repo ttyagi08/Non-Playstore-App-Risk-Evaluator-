@@ -1,0 +1,22 @@
+
+Library used :Android Support v4 
+ Permission:android.permission.BACKUP  &&  SCORE :8 
+Permission:android.permission.BLUETOOTH_ADMIN  &&  SCORE :10 
+Permission:android.permission.DUMP  &&  SCORE :5 
+Permission:android.permission.INTERACT_ACROSS_USERS  &&  SCORE :3 
+Permission:android.permission.INTERACT_ACROSS_USERS_FULL  &&  SCORE :4 
+Permission:android.permission.INTERNET  &&  SCORE :7 
+Permission:android.permission.WAKE_LOCK  &&  SCORE :2 
+TOTAL SCORE for library Android Support v4:  39   (Vulnerability score) 
+
+Library used :Google Mobile Services 
+ Permission:android.permission.BACKUP  &&  SCORE :8 
+Permission:android.permission.DUMP  &&  SCORE :5 
+Permission:android.permission.INTERACT_ACROSS_USERS  &&  SCORE :3 
+Permission:android.permission.INTERACT_ACROSS_USERS_FULL  &&  SCORE :4 
+Permission:android.permission.INTERNET  &&  SCORE :7 
+TOTAL SCORE for library Google Mobile Services:  27   (Vulnerability score) 
+
+Library used :Google Ads 
+ Permission:android.permission.DUMP  &&  SCORE :5 
+TOTAL SCORE for library Google Ads:  5   (Vulnerability score) 
