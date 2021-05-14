@@ -7,7 +7,7 @@
 </p>  
   </p>
   
-* A tool for automatic Risk Detection.
+* A tool for Automatic Risk Detection.
 
 * Upload your .apk files and this tool will tell if the app is risky or safe to use, based on the permissions and libraries.
 
