@@ -24,7 +24,9 @@ python gui.py
   ```
   
  ## Working
-### 1. Run gui.py on terminal <img src = "https://github.com/ttyagi08/Non-Playstore-App-Risk-Evaluator-/blob/main/Screenshots/1a.png"  /> <img src = "https://github.com/ttyagi08/Non-Playstore-App-Risk-Evaluator-/blob/main/Screenshots/1b.png"  height=500 width=500/>
+### 1. Run gui.py on terminal 
+<img src = "https://github.com/ttyagi08/Non-Playstore-App-Risk-Evaluator-/blob/main/Screenshots/1a.png"   height=500 width=500/> 
+<img src = "https://github.com/ttyagi08/Non-Playstore-App-Risk-Evaluator-/blob/main/Screenshots/1b.png"  height=500 width=500/>
  
 ### 2. Enter the App name and select the category 
 <img src = "https://github.com/ttyagi08/Non-Playstore-App-Risk-Evaluator-/blob/main/Screenshots/2a.png" height=500 width=500/>
