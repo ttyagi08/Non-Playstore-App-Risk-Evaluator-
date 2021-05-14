@@ -26,7 +26,8 @@ python gui.py
  ## Working
 ### 1. Run gui.py on terminal <img src = "https://github.com/ttyagi08/Non-Playstore-App-Risk-Evaluator-/blob/main/Screenshots/1a.png"  /> <img src = "https://github.com/ttyagi08/Non-Playstore-App-Risk-Evaluator-/blob/main/Screenshots/1b.png"  height=500 width=500/>
  
-### 2. Enter the App name and select the category <img src = "https://github.com/ttyagi08/Non-Playstore-App-Risk-Evaluator-/blob/main/Screenshots/2a.png" height=500 width=500/>
+### 2. Enter the App name and select the category 
+<img src = "https://github.com/ttyagi08/Non-Playstore-App-Risk-Evaluator-/blob/main/Screenshots/2a.png" height=500 width=500/>
  
 ### 3. Result i.e App Risk level, can be seen and user can get more details by clicking on the HELP button. <img src = "https://github.com/ttyagi08/Non-Playstore-App-Risk-Evaluator-/blob/main/Screenshots/2b.png" height=500 width=500 /> <img src = "https://github.com/ttyagi08/Non-Playstore-App-Risk-Evaluator-/blob/main/Screenshots/2c.png" />
  
