@@ -24,9 +24,9 @@ python gui.py
   ```
   
  ## Working
- 1. Run gui.py on terminal 
+ 1. Run gui.py on terminal <img src = "https://github.com/ttyagi08/Non-Playstore-App-Risk-Evaluator-/blob/main/Screenshots/1a.png" />
  2. Enter the App name and select the category 
- 3. Result i.e App Risk level, can be seen and user can get more details by clicking on * HELP button. 
+ 3. Result i.e App Risk level, can be seen and user can get more details by clicking on the HELP button. 
  4. Selecting the right category is very important. As can be seen if the user selects wrong category the results will be inaccurate. 
 
 
