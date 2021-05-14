@@ -1,11 +1,15 @@
 # Non-Playstore-App Risk Evaluator
-A tool for automatic Risk Detection.
+<p align="center">
 
-Upload your .apk files and this tool will tell if the app is risky or safe to use, based on the permissions and libraries.
+  [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+  </p>
+* A tool for automatic Risk Detection.
 
-It gives 3 Risk levels - Low, Medium, High. Based on the total score of a library.
+* Upload your .apk files and this tool will tell if the app is risky or safe to use, based on the permissions and libraries.
 
-User can decide to use the app after the risk score.
+* It gives 3 Risk levels - Low, Medium, High. Based on the total score of a library.
+
+*User can decide to use the app after the risk score.
 ## USE CASE 
 Suppose a user want to check an app for privacy and risk factors before installing, user can use this tool. 
 
