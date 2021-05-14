@@ -40,7 +40,8 @@ python gui.py
  
 
 
-### 4. Selecting the right category is very important. As can be seen if the user selects wrong category the results will be inaccurate. <img src = "https://github.com/ttyagi08/Non-Playstore-App-Risk-Evaluator-/blob/main/Screenshots/3a.png" height=500 width=500 /> 
+### 4. Selecting the right category is very important. As can be seen if the user selects wrong category the results will be inaccurate. 
+<img src = "https://github.com/ttyagi08/Non-Playstore-App-Risk-Evaluator-/blob/main/Screenshots/3a.png" height=500 width=500 /> <img src = "https://github.com/ttyagi08/Non-Playstore-App-Risk-Evaluator-/blob/main/Screenshots/3ba.png" height=500 width=500 /> 
 
 
 
