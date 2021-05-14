@@ -29,7 +29,7 @@ python gui.py
 <img src = "https://github.com/ttyagi08/Non-Playstore-App-Risk-Evaluator-/blob/main/Screenshots/1b.png"  height=500 width=500/>
  
 
-<br>
+<br/>
 ### 2. Enter the App name and select the category 
 <img src = "https://github.com/ttyagi08/Non-Playstore-App-Risk-Evaluator-/blob/main/Screenshots/2a.png" height=500 width=500/>
  
