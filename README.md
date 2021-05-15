@@ -11,7 +11,7 @@
 
 * Upload your .apk files and this tool will tell if the app is risky or safe to use, based on the permissions and libraries.
 
-* It gives 3 Risk levels - Low, Medium, High. Based on the total score of a library.
+* It gives 3 Risk levels - _Low, Medium, High_. Based on the total score of a library.
 
 * User can decide to use the app after the risk score.
 ## USE CASE 
@@ -24,7 +24,7 @@ python gui.py
   ```
   
  ## Working
- ###   1. Run >gui.py on terminal 
+ ###   1. Run `gui.py` on terminal 
 <img src = "https://github.com/ttyagi08/Non-Playstore-App-Risk-Evaluator-/blob/main/Screenshots/1a.png"   /> 
 <img src = "https://github.com/ttyagi08/Non-Playstore-App-Risk-Evaluator-/blob/main/Screenshots/1b.png"  height=500 width=500/><br/><br/>
  
