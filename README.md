@@ -24,7 +24,7 @@ python gui.py
   ```
   
  ## Working
- ###   1. Run gui.py on terminal 
+ ###   1. Run >gui.py on terminal 
 <img src = "https://github.com/ttyagi08/Non-Playstore-App-Risk-Evaluator-/blob/main/Screenshots/1a.png"   /> 
 <img src = "https://github.com/ttyagi08/Non-Playstore-App-Risk-Evaluator-/blob/main/Screenshots/1b.png"  height=500 width=500/><br/><br/>
  
@@ -36,7 +36,7 @@ python gui.py
  
 
 
-### 3. Result i.e App Risk level, can be seen and user can get more details by clicking on the HELP button. 
+### 3. Result i.e App Risk level, can be seen and user can get more details by clicking on the _HELP_ button. 
 <img src = "https://github.com/ttyagi08/Non-Playstore-App-Risk-Evaluator-/blob/main/Screenshots/2b.png" height=500 width=500 /> <img src = "https://github.com/ttyagi08/Non-Playstore-App-Risk-Evaluator-/blob/main/Screenshots/2c.png" height=500 width=500 />
 <br/><br/>
  
