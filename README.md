@@ -1,4 +1,5 @@
 # Non-Playstore-App Risk Evaluator
+---
 <p align="center">
 
   [![forthebadge made-with-python](https://github.com/ttyagi08/Non-Playstore-App-Risk-Evaluator-/blob/main/made-with-python.svg)](https://www.python.org/)
@@ -6,7 +7,7 @@
   [![GitHub license](https://img.shields.io/github/license/ttyagi08/Non-Playstore-App-Risk-Evaluator-)](https://github.com/ttyagi08/Non-Playstore-App-Risk-Evaluator-/blob/main/LICENSE)
 </p>  
   </p>
-  
+ ---
 * A tool for Automatic Risk Detection.
 
 * Upload your .apk files and this tool will tell if the app is risky or safe to use, based on the permissions and libraries.
