@@ -6,7 +6,7 @@
   
   [![GitHub license](https://img.shields.io/github/license/ttyagi08/Non-Playstore-App-Risk-Evaluator-)](https://github.com/ttyagi08/Non-Playstore-App-Risk-Evaluator-/blob/main/LICENSE)
 </p>  
-  </p>
+  
 ---
 * A tool for Automatic Risk Detection.
 
